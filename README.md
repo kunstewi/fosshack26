@@ -1,5 +1,3 @@
-# FOSSHACK – March Timeline
-
 ### 1 March
 ---
 - 
