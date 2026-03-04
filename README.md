@@ -1,20 +1,19 @@
 ### 1 March
 ---
-- 
-- 
-- 
+- explored fossunited codebase
+- understood the architecture
+- saw open issues and development workflow
 
 ### 2 March
 ---
-- 
-- 
-- 
+- went to siliguri localhost to attend the fosshack event
+- met Nilabrata and Nisarga pretty cracked dudes
+- understood requirements and everything for fosshack
 
 ### 3 March
 ---
-- 
-- 
-- 
+- started understanding the architecture deeply of fossunited repo
+- read docs about frappe and how it works
 
 ### 4 March
 ---
