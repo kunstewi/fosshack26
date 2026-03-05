@@ -17,15 +17,15 @@
 
 ### 4 March
 ---
-- 
-- 
-- 
+- d dived deep into fossunited codebase and understood architecture
+- set up the codebase locally and tinkered around
+- decided not to proceed with fossunited because my guy nisarga is already doing good work over there
 
 ### 5 March
 ---
-- 
-- 
-- 
+- chose maxun as my new organistaion to go with 
+- started understanding the repo
+- forked and set up the coebase locally
 
 ### 6 March
 ---
